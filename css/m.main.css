@@ -1,0 +1,138 @@
+@media only screen and (max-device-width: 736px) and (orientation: portrait) {
+    ul.grid-nav li {
+        display: block;
+        margin: 0 0 5px;
+    }
+    ul.grid-nav li a {
+        display: block;
+    }
+    ul.rig {
+        margin-left: 0;
+    }
+    ul.rig li {
+        width: 100% !important;
+        /* over-ride all li styles */
+        margin: 0 0 20px;
+    }
+    .desktop-nav {
+        display: none;
+    }
+    .top-bar-fix {
+        height: 100px;
+    }
+    .section-title {
+        text-align: left;
+        font-size: 4vw;
+        font-weight: 700;
+    }
+    .section-funtext {
+        text-align: left;
+        font-size: 4vw;
+        line-height: 5vw;
+    }
+    .link {
+        width: 100%;
+        font-size: 5vw;
+    }
+    .home-info-section {
+        display: inline;
+    }
+    .home-info-container {
+        width: 100%;
+        margin-top: 5vw;
+    }
+    .home-info-title {
+        font-size: 5vw;
+    }
+    .home-info-text {
+        font-size: 4vw;
+        line-height: 5vw;
+    }
+    .footer {
+        font-size: 3.5vw;
+    }
+    .bottom-bar-fix {
+        height: 100px;
+    }
+    .social-media-icon {
+        height: 50px;
+        margin-top: 25px;
+    }
+    .content {
+        top: 100px;
+    }
+    .menu-title {
+        text-align: left;
+        font-size: 4vw;
+    }
+    .menu-funtext {
+        text-align: left;
+        font-size: 4vw;
+        line-height: 5vw;
+        margin-top: 25px;
+        width: 100%;
+    }
+    .top-margin {
+        margin-top: 50px;
+    }
+    .flex-container {
+        display: inline;
+    }
+    .column {
+        width: 100%;
+    }
+    .small-margin-top {
+        margin-top: 25px;
+    }
+    .gallery-item {
+        display: inline;
+        width: 100%;
+        padding-top: 1vh;
+    }
+    .contact-container {
+        display: inline;
+    }
+    .contact-info-container {
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 50px;
+    }
+    .contact-title {
+        font-size: 7vw;
+    }
+    .contact-sub-title {
+        font-size: 4vw;
+    }
+    .contact-text {
+        font-size: 4vw;
+        line-height: 5vw;
+    }
+    #contact-follow {
+        display: none;
+    }
+    #contact-social {
+        display: none;
+    }
+    .first-name-container {
+        width: 100% !important;
+    }
+    .last-name-container {
+        width: 100% !important;
+        margin-left: 0 !important;
+    }
+    input[type=submit] {
+        width: 100%;
+    }
+    input[type=submit],
+    input[type=text],
+    textarea {
+        font-size: 3vw;
+    }
+    .mobile-nav {
+        display: inline;
+    }
+    .img-text {
+        display: none;
+    }
+}
