@@ -47,6 +47,7 @@
     .home-info-text {
         font-size: 4vw;
         line-height: 5vw;
+        height: 40vh;
     }
     .footer {
         font-size: 3.5vw;
@@ -134,5 +135,14 @@
     }
     .img-text {
         display: none;
+    }
+    .img-text-icon {
+        display: none;
+    }
+    .team-text {
+        font-size: 4vw;
+    }
+    .home-info-image {
+        margin-top: 0;
     }
 }

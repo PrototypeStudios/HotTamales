@@ -1,5 +1,5 @@
 var imageArray = [
- "../img/gallery/food/1.jpg", "../img/gallery/food/2.jpg", "../img/gallery/food/3.jpg", "../img/gallery/food/4.jpg", "../img/gallery/food/5.jpg"
+ "img/gallery/food/1.jpg", "img/gallery/food/2.jpg", "img/gallery/food/3.jpg", "img/gallery/food/4.jpg", "img/gallery/food/5.jpg", "img/gallery/food/6.jpg", "img/gallery/food/7.jpg", "img/gallery/food/8.jpg", "img/gallery/food/9.jpg"
 
 ];
 
