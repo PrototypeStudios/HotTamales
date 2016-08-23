@@ -149,7 +149,7 @@ ul.rig.columns-4 li {
 }
 
 .home-info-container {
-    width: 50%;
+    width: 100%;
 }
 
 .home-info-text {
@@ -158,12 +158,11 @@ ul.rig.columns-4 li {
     font-size: 1.5vw;
     line-height: 1.7vw;
     margin-top: 10px;
-    height: 35vh;
 }
 
 .home-info-image {
     width: 100%;
-    margin-top: 20px
+    margin-top: 25px;
 }
 
 .footer {
@@ -302,6 +301,7 @@ ul.rig.columns-4 li {
 
 .column {
     width: 50%;
+    padding-right: 2%;
 }
 
 ul.leaders {
@@ -317,7 +317,7 @@ ul.leaders .dotted:before {
     width: 0;
     white-space: nowrap;
     font-size: 24px;
-    content: ". . . . . . . . . . . . . . . . . . . . " ". . . . . . . . . . . . . . . . . . . . " ". . . . . . . . . . . . . . . . "
+    content: ". . . . . . . . . . . . . . . . . . . . " ". . . . . . . . . . . . . . . . . . . . " ". . . . . . . . . . . .  "
 }
 
 ul.leaders span:first-child {

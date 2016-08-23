@@ -47,7 +47,6 @@
     .home-info-text {
         font-size: 4vw;
         line-height: 5vw;
-        height: 40vh;
     }
     .footer {
         font-size: 3.5vw;
@@ -143,6 +142,15 @@
         font-size: 4vw;
     }
     .home-info-image {
-        margin-top: 0;
+        margin-top: 50px;
     }
+    ul.leaders .dotted:before {
+        content: ". . . . . . . . . . . . . . . . . . . . " ". . . . . . . . . . . . . . . . . . . . "
+    }
+
+    ul.rig li img {
+    width: 100%;
+    height: auto;
+    margin: 0 0 0px;
+}
 }
