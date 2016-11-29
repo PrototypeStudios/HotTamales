@@ -619,3 +619,9 @@ textarea {
 .menu-top-margin {
     margin-top: 250px;
 }
+
+.taco-reminder {
+    font-weight: 100;
+    text-align: center;
+    margin-top: 4vw
+}
